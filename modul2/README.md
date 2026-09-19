@@ -55,7 +55,7 @@ Mengonfigurasi ESP32 untuk bertindak sebagai klien (seperti laptop/smartphone) y
 Mengonfigurasi ESP32 menjadi penyedia jaringan (hotspot) mandiri. Perangkat ini membuat jaringan baru agar smartphone atau laptop lain dapat langsung terhubung kepadanya tanpa memerlukan router tambahan.
 
 # Jawaban pertanyaan praktikum yang berkaitan dengan code
-## A. A. Pertanyaan 2.5.4 No 4
+## Pertanyaan 2.5.4 No 4
 ```cpp
 #include <ESP8266WiFi.h>
 

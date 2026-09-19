@@ -32,6 +32,7 @@ void loop() {
 
     // Membuat objek data sensor dalam format JSON
     JsonDocument doc;
+    doc["waktu"] = millis(); // modivikasi
     doc["suhu"] = 28.5;         // data suhu (°C)
     doc["kelembaban"] = 65.0;   // data kelembaban (%)
 
